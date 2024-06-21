@@ -4,6 +4,5 @@
 <p>Bem vindo ao meu perfil! </br> Sou Vitor Eduardo, Sou estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software. </p>
 <h3>Tecnologias trabalhadas </h3>
 <p>
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 </p>
