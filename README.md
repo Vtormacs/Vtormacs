@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Eu sou Vitor Eduardo</h1>
+<h1 align="center">Oi 👋, Eu sou Vitor Eduardo</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software</h3>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
