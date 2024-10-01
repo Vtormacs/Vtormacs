@@ -1,5 +1,5 @@
 ### Oi 👋, Eu sou Vitor Eduardo.
-- Estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software
+- Desenvolvedor e Estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software
 - Contate-me no email: vtorlopescontato@gmail.com
  <a href="https://www.instagram.com/vtormacs" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -33,7 +33,7 @@
 ## Development Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws,linux,mint,windows,idea,vscode" />
   </a>
 </p>
 
