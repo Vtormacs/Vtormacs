@@ -33,7 +33,12 @@
 ## Development Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws,linux,mint,windows,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws" />
+  </a>
+</p>
+<p>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,mint,windows,idea,vscode" />
   </a>
 </p>
 
