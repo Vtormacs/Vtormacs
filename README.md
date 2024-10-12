@@ -33,7 +33,7 @@
 ## Development Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws,figma" />
   </a>
 </p>
 <p>
