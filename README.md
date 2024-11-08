@@ -47,4 +47,4 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtormacs&layout=compact&theme=dark" alt="Estatísticas das Linguagens Mais Usadas"></a>
 </p>
 
- 
+![Profile Views](https://komarev.com/ghpvc/?username=Vtormacs&color=blue&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
