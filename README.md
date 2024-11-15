@@ -19,7 +19,7 @@
 ## Front
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,typescript,angular,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,scss,typescript,angular,bootstrap" />
   </a>
 </p>
 
