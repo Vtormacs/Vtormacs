@@ -7,8 +7,6 @@ Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas
 💼 Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francisco-1523ab28b/)  
 📸 Siga-me no [Instagram](https://www.instagram.com/vtormacs)
 
----
-
 ### Back-End
 <p>
   <a href="https://skillicons.dev">
@@ -44,7 +42,6 @@ Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas
   </a>
 </p>
 
----
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtormacs&layout=compact&theme=dark" alt="Estatísticas das Linguagens Mais Usadas" />
   </a>
