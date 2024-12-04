@@ -2,10 +2,10 @@
 
 Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software.**
 
-<a href="https://drive.google.com/file/d/13u2ZllOp4rFBB9LxiMlRe52zfG_9X3rI/view?usp=drive_link" target="_blank">📄 Currículo</a>  
-📧 Entre em contato: <a href="mailto:vtorlopescontato@gmail.com" target="_blank">vtorlopescontato@gmail.com</a>  
-💼 Conecte-se no <a href="https://www.linkedin.com/in/vitor-eduardo-lopes-francisco-1523ab28b/" target="_blank">LinkedIn</a>  
-📸 Siga-me no <a href="https://www.instagram.com/vtormacs" target="_blank">Instagram</a>
+📄 [Currículo](https://drive.google.com/file/d/13u2ZllOp4rFBB9LxiMlRe52zfG_9X3rI/view?usp=drive_link)   
+📧 Entre em contato: [vtorlopescontato@gmail.com](mailto:vtorlopescontato@gmail.com)  
+💼 Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francisco-1523ab28b/)  
+📸 Siga-me no [Instagram](https://www.instagram.com/vtormacs)
 
 ---
 
