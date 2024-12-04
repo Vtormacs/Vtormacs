@@ -10,7 +10,7 @@ Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas
 ### Back-End
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring" alt="Java e Spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring,c" alt="Java e Spring" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas
 ### Bancos de Dados
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL e PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL e PostgreSQL" />
   </a>
 </p>
 
@@ -38,12 +38,9 @@ Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas
 ### Sistemas Operacionais e IDEs
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,mint,windows,idea,vscode" alt="Linux, Mint, Windows, IntelliJ IDEA, VSCode" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,windows,idea,vscode,eclipse" alt="Linux, Mint, Windows, IntelliJ IDEA, VSCode" />
   </a>
 </p>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtormacs&layout=compact&theme=dark" alt="Estatísticas das Linguagens Mais Usadas" />
-  </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vtormacs&color=blue&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
