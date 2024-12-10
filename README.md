@@ -2,7 +2,7 @@
 
 Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software.**
 
-📄 [Currículo](https://drive.google.com/file/d/13u2ZllOp4rFBB9LxiMlRe52zfG_9X3rI/view?usp=drive_link)   
+📄 [Currículo](https://drive.google.com/file/d/1zitbfsbg9VyGUkiwflbBZDr0mnwZQp-P/view?usp=drive_link)   
 📧 Entre em contato: [vtorlopescontato@gmail.com](mailto:vtorlopescontato@gmail.com)  
 💼 Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francisco-1523ab28b/)  
 📸 Siga-me no [Instagram](https://www.instagram.com/vtormacs)
