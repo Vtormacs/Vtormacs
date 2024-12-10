@@ -31,7 +31,7 @@ Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas
 ### Ferramentas de Desenvolvimento
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws,figma" alt="Git, Docker, Postman, Maven, AWS, Figma" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws,gcp,figma" alt="Git, Docker, Postman, Maven, AWS, gcp, Figma" />
   </a>
 </p>
 
