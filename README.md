@@ -10,7 +10,7 @@ Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas
 ### Back-End
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c" alt="Java e Spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cs,dotnet" alt="Java e Spring" />
   </a>
 </p>
 
