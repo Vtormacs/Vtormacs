@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Vitor Eduardo!
 
-Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software.**
+**Desenvolvedor Full Stack** e **Estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software.**
 
 📄 [Currículo](https://drive.google.com/file/d/1STMrba7h38tyAf4irpzKTotIkAsOkh2X/view?usp=drive_link)   
 📧 Entre em contato: [vtorlopescontato@gmail.com](mailto:vtorlopescontato@gmail.com)  
@@ -32,13 +32,6 @@ Sou um **Desenvolvedor** e **Estudante de Análise e Desenvolvimento de Sistemas
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws,gcp,figma" alt="Git, Docker, Postman, Maven, AWS, gcp, Figma" />
-  </a>
-</p>
-
-### Sistemas Operacionais e IDEs
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,windows,idea,vscode,eclipse" alt="Linux, Mint, Windows, IntelliJ IDEA, VSCode" />
   </a>
 </p>
 
