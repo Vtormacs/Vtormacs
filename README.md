@@ -1,38 +1,55 @@
 # 👋 Olá, eu sou Vitor Eduardo!
 
-**Desenvolvedor Full Stack** e **Estudante de Análise e Desenvolvimento de Sistemas | Engenharia de Software.**
+**Desenvolvedor Full Stack** | **Estudante de Análise e Desenvolvimento de Sistemas** 🎓  
 
 📧 Entre em contato: [vtorlopescontato@gmail.com](mailto:vtorlopescontato@gmail.com)  
 💼 Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francisco-1523ab28b/)  
 📸 Siga-me no [Instagram](https://www.instagram.com/vtormacs)
 
-### Back-End
+---
+
+### 🖥️ Back-End
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cs,dotnet" alt="Java e Spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cs,dotnet,kafka" alt="Back-End Technologies" />
   </a>
 </p>
 
-### Front-End
+### 🎨 Front-End
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,scss,typescript,angular,bootstrap" alt="JavaScript, HTML, CSS, SCSS, TypeScript, Angular, Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,angular,bootstrap" alt="Front-End Technologies" />
   </a>
 </p>
 
-### Bancos de Dados
+### 🗄️ Bancos de Dados
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL e PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
   </a>
 </p>
 
-### Ferramentas de Desenvolvimento
+### 🛠️ DevOps & Cloud
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,aws,gcp,figma" alt="Git, Docker, Postman, Maven, AWS, gcp, Figma" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,heroku,git,postman,maven" alt="DevOps Tools" />
   </a>
 </p>
 
+### 🕹️ Desenvolvimento de Jogos & IoT
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,arduino" alt="Game Dev & IoT" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vtormacs&color=blue&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
+### 🎨 Design & Prototipagem
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Design Tools" />
+  </a>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vtormacs&color=blue&style=flat-square&label=PROFILE+VIEWS)
