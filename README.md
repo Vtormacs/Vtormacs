@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Vitor Eduardo!
 
-**Desenvolvedor Full Stack** | **Estudante de Análise e Desenvolvimento de Sistemas** 🎓  
+**Desenvolvedor Full Stack** | **Estudante de Análise e Desenvolvimento de Sistemas** 
 
  Entre em contato: [vtorlopescontato@gmail.com](mailto:vtorlopescontato@gmail.com)  
  Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francisco-1523ab28b/)  
