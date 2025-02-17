@@ -3,7 +3,8 @@
 **Desenvolvedor Full Stack** | **Estudante de Análise e Desenvolvimento de Sistemas** 
 
  Entre em contato: [vtorlopescontato@gmail.com](mailto:vtorlopescontato@gmail.com)  
- Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francisco-1523ab28b/)  
+Veja meu [Portfolio](https://portifolio-beige-six-90.vercel.app/) <br>
+Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francisco-1523ab28b/)  
  Siga-me no [Instagram](https://www.instagram.com/vtormacs)
 
 ---
