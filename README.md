@@ -37,20 +37,6 @@ Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francis
   </a>
 </p>
 
-###  Desenvolvimento de Jogos & IoT
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,arduino" alt="Game Dev & IoT" />
-  </a>
-</p>
-
-###  Design & Prototipagem
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Design Tools" />
-  </a>
-</p>
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vtormacs&color=blue&style=flat-square&label=PROFILE+VIEWS)
