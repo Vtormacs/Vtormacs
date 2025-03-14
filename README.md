@@ -12,7 +12,7 @@ Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francis
 ###  Back-End
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cs,dotnet,kafka" alt="Back-End Technologies" />
+    <img src="https://skillicons.dev/icons?i=java,spring" alt="Back-End Technologies" />
   </a>
 </p>
 
