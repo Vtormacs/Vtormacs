@@ -23,7 +23,7 @@ Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francis
   </a>
 </p>
 
-###  Bancos de Dados
+###  Databases 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
