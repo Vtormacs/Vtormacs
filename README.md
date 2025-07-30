@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Vitor Eduardo!
 
-**Desenvolvedor Full Stack** | **Estudante de Análise e Desenvolvimento de Sistemas** 
+**Desenvolvedor Full Stack** | **Formado em Análise e Desenvolvimento de Sistemas** 
 
  Entre em contato: [vtorlopescontato@gmail.com](mailto:vtorlopescontato@gmail.com)  
 Veja meu [Portfolio](https://portifolio-beige-six-90.vercel.app/) <br>
