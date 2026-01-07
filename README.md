@@ -9,6 +9,13 @@ Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francis
 
 ---
 
+###  Mobile
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Technologies" />
+  </a>
+</p>
+
 ###  Back-End
 <p>
   <a href="https://skillicons.dev">
