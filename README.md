@@ -40,7 +40,7 @@ Conecte-se no [LinkedIn](https://www.linkedin.com/in/vitor-eduardo-lopes-francis
 ###  DevOps & Cloud
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,postman,maven" alt="DevOps Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,git,postman,maven,cloudflare" alt="DevOps Tools" />
   </a>
 </p>
 
